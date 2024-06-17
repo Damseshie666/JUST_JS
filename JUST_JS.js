@@ -33,5 +33,26 @@ var name ="Dorcas";
 name.length;
 name.slice(0,1);
 
+console.log("Hello, World!");
+var vehicles = ["Ford","Honda","Toyota"];
+console.log(vehicles[1]);
+var myName = "Seshie";
+console.log(myName);
+console.log(myName.length);
+//Slicing in javascript
+var human = "DeSouza";
+console.log(human.slice(0,4));
+
+//Casing In Strings thus from lowercase to uppercase
+var water = "purewater";
+console.log(water.toUpperCase());
+
+//Basic arithmetic and modulo operator
+var addition = 2 + 3;
+var subtraction = 2 - 3;
+var multiplication = 2 * 3;
+var division = 2 / 3;
+var modulo = 2 % 3;
+
 
 
